@@ -1,3 +1,5 @@
+v0.0.3
+
 Fly a ship in space, shoot obstacles, collect science points, manage ship's heat and buy upgrades.
 
 No loading of graphics and no sound.
