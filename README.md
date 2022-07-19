@@ -1,2 +1,3 @@
-# First-steps-in-coding-with-Python
-A baker and linguist learns his first programming languge
+# Trainig GUI creation with Tkinter
+
+A naive project playng with some functionalities.
