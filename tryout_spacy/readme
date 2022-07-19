@@ -1,2 +1,2 @@
 a GUI that works with text and generates triples from it using spacy's small English model.
-Pyinstaller and Spacy had a problem, couldn't produce an working .exe file.
+Pyinstaller and Spacy had a problem, couldn't produce a working .exe file.
